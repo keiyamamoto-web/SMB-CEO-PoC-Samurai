@@ -28,6 +28,7 @@ SMB-CEO-PoC-Samurai/
 │   ├── template_customer_profile.md             # 顧客の声（VoC）＆地雷客判定テンプレート
 │   ├── samurai_customer_voices.md               # 【サムライTシャツ】生々しい顧客VoC・地雷客プロファイル
 │   ├── interview_sawada_bottlenecks.md          # 【ヒアリング用】現場リソース・置き場ボトルネック確認シート
+│   ├── governance_context_senmu_transition.md   # 【最重要背景】専務退任と現場ガバナンス移行（プロジェクトの真のWHY）
 │   ├── knowledge_base_technical.md              # 技術側面（DTF機材・トラブル復旧）
 │   ├── knowledge_base_business.md               # 経営側面（PL・戦略・歴史・組織）
 │   ├── architecture_subagents_and_tools.md      # サブエージェント群（KOT-MCP等）
