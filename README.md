@@ -9,6 +9,8 @@ SMB（中小企業）向け経営者・現場判断代替エージェントのPo
 SMB-CEO-PoC（Samurai）/
 ├── .gemini/
 │   └── GEMINI.md              # プロジェクト専用のローカルルール（コンテキスト隔離・守秘規定）
+├── prompts/                   # エージェント用システムプロンプト
+│   └── ceo_proxy_system_prompt.md  # 支社長代理のコアシステムプロンプト（ドラフト）
 ├── knowledge/                 # 支社長代理の知識ベース（Markdown）
 │   ├── knowledge_base_technical.md              # 技術側面（DTF機材・トラブル復旧）
 │   ├── knowledge_base_business.md               # 経営側面（PL・戦略・歴史・組織）
